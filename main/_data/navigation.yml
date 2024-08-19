@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "EDUCATION"
+    url: /education/
+
+  - title: "RESEARCH"
+    url: /cv/    
+
+  - title: "INTERNSHIP"
+    url: /markdown/    
+
+  - title: "AWARD & SKILL"
+    url: /award/
+    
+  - title: "BLOG"
+    url: /year-archive/
+    
+  - title: "PROPOSAL"
+    url: /proposal/
+    
+  - title: "TALK"
+    url: /talks/
+    
+  #- title: "Guide"
+  #  url: /teaching/
